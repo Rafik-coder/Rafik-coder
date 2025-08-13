@@ -1,5 +1,6 @@
+
 <!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm Adam Abdul-Rafik</h1>
+<h1 align="center">Hi there 👋, I'm Adam Abdul-Rafik (a.k.a DePrograma)</h1>
 <h3 align="center">🚀 Full Stack Software Engineer | Building Scalable, Data-Driven Solutions</h3>
 
 ---
@@ -53,9 +54,9 @@ My work spans **web, mobile, and backend systems**, with a focus on **scalabilit
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**CityHub**](https://github.com/yourusername/CityHub) | A smart city platform integrating multiple SDGs with real-time data tracking, community engagement, and analytics. | React, Node.js, MySQL |
-| [**HarvestGuard**](https://github.com/yourusername/HarvestGuard) | IoT-enabled platform to reduce post-harvest losses and enhance market access for smallholder farmers. | FastAPI, React Native, IoT, SQLite |
-| [**Vimatone Delivery**](https://github.com/yourusername/Vimatone) | A mobile app for booking and tracking deliveries with dynamic pricing based on weight and distance. | Flutter, PHP API, MySQL |
+| [**Vimatone**](https://vimatone.com) | An Ecommerce System built for high scalability with Elegant Backend Management. | Next.js, Node.js, MySQL |
+| [**HHSolutions Investment**](https://heritageherbalsolutions.com) | A Herbal Company (Heriatge Herbal Solutions) That aim to allow investors contribute to the growth of Herbal Medicine treatment. | React, Vite, Node.js |
+| [**AfriGrow**](https://github.com/Rafik-coder/afrigrow) | An Agricultural advisory mobile app for local Ghanaian Farmers to query questions using the Twi Local Dialect. | React-Native, Python, FastAPI, NLP, ML |
 | [**Image Forgery Detection**](https://github.com/yourusername/Image-Forgery-Detection) | Detects image manipulation using CNN, OpenCV, and MD5 hash integrity verification. | Python, Flask, VGG16 |
 | [**Face Recognition Attendance System**](https://github.com/yourusername/Face-Recognition-Attendance) | Real-time attendance system using DeepFace and browser-based video streaming. | HTML, JS, Python (DeepFace), SQLite |
 
@@ -76,10 +77,10 @@ My work spans **web, mobile, and backend systems**, with a focus on **scalabilit
 
 ## 📬 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/abdul-rafik-adam-3a37271b0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:codewithraf769@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://deprograma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://x.com/Rafik_X_Coder"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
